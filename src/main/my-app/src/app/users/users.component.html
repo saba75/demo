@@ -1,0 +1,45 @@
+
+  <h2>Users</h2>
+  <ul class="users">
+    <!-- <li *ngFor="let user of users" (click)="onSelect(user)">
+      <span class="badge"
+      [class.selected]="user === selectedUser">
+      {{user.id}}
+    </span>{{user.username}}
+
+    </li> -->
+
+    <li *ngFor="let user of users">
+      <a routerLink="/detail/{{user.id}}">
+      <span class="badge">{{user.id}}</span> {{user.username}}
+      </a>
+        <button class="delete" title="delete user"
+      (click)="delete(user)">x</button>
+    </li>
+  </ul>
+
+  <br>
+
+  <div>
+    <form [formGroup]="userForm" (ngSubmit)="onSubmit()">
+    <label>
+    Name:
+    <input type="text" formControlName="name" name="name">
+  </label>
+
+  <label>
+  Email:
+  <input type="text" formControlName="email" name="email">
+  </label>
+
+  <label>
+  username:
+  <input type="text" formControlName="username" name="username">
+  </label>
+  <!-- (click) passes input value to add() and then clears the input -->
+  <button class="btn btn-info my-4 btn-block" type="submit">Sign in</button>
+</form>
+
+</div>
+<!-- this component should not be shown here -->
+  <!-- <app-user-detail [user]="selectedUser"></app-user-detail> -->

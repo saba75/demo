@@ -1,0 +1,21 @@
+<div *ngIf="user">
+<h2>
+  {{user.name | uppercase}} register with username {{user.username}} and email {{user.email}}
+</h2>
+<div>
+<label>user name :‌
+  <input [(ngModel)]="user.username" placeholder="username"/>
+</label>
+<br>
+<label> name :‌
+  <input [(ngModel)]="user.name" placeholder="name"/>
+</label>
+
+<br>
+<label> email :‌
+  <input [(ngModel)]="user.email" placeholder="email"/>
+</label>
+</div>
+<button (click)="goBack()">go back</button>
+<button (click)="save()">save</button>
+</div>
