@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d08cbcc-2878-444e-9803-a0fe390415be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/my-app/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -55,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/levelup/demo/controller/PersonController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
@@ -63,6 +34,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/my-app/e2e/protractor.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -146,6 +126,11 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="saba75 &lt;saba.safavi75@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/my-app" />
   </component>
   <component name="IdeDocumentHistory">
@@ -272,6 +257,21 @@
               <item name="model" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="e2e" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -280,8 +280,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-angular2-tasks-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -335,17 +337,25 @@
       <workItem from="1554628658492" duration="1820000" />
       <workItem from="1554659805610" duration="5344000" />
       <workItem from="1554786511721" duration="7517000" />
-      <workItem from="1554872376403" duration="18925000" />
+      <workItem from="1554872376403" duration="19709000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1554931946688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554931946688</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33606000" />
+    <option name="totallyTimeSpent" value="34390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23408966" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23408966" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -353,9 +363,10 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986165" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986165" weight="0.32937366" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4997233" weight="0.39978448" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -363,8 +374,8 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3297414" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013835" side_tool="true" visible="true" weight="0.32937366" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3297414" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5002767" side_tool="true" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4997233" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -417,6 +428,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -526,6 +542,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/my-app/e2e/protractor.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
         </state>
       </provider>
     </entry>
